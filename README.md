@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [BookMyPort](private-link)
 
-- 💬 Ask me about **Golang, React, AWS Redshift**
+- 💬 Ask me about **Golang, React, Data Warehousing and OLAP**
 
 - 📫 How to reach me **sndpky1@gmail.com**
 
